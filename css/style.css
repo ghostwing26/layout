@@ -1,0 +1,100 @@
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Source Sans Pro', sans-serif, system-ui;
+}
+
+p {
+    font-size: 18px;
+}
+
+.head {
+    font-size: 4em;
+    font-weight: 800;
+}
+
+.head2 {
+    font-size: 3em;
+    font-family: 'Source Sans Pro', sans-serif, system-ui;
+    font-weight: 800;
+}
+
+.head3 {
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.bg-light-blue {
+    background-color: #e3f2fd;
+}
+
+.nav-logo {
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+}
+
+.navbar-brand {
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+a.navbar-brand {
+    color: #4091dd;
+}
+
+.content-center {
+    margin: 0 auto;
+}
+
+ul.navbar-nav li.nav-item {
+    font-family: 'Source Sans Pro', sans-serif, system-ui;
+    font-size: 20px;
+    font-weight: 700;
+    color: #5a5a5a;
+    margin: 10px;
+}
+
+.nav-link {
+    color: #54719c;
+}
+
+.form-control{
+    font-family: 'Source Sans Pro', sans-serif, system-ui;
+    padding: 8px;
+}
+
+.formgroup {
+    width: 70%;
+    background-color: #ffffff;
+}
+
+.color {
+    color: #278bc5;
+}
+
+.light-blue {
+    color: #4091dd;
+}
+
+.bottom {
+    border-style: none;
+    border-bottom: 2px solid #5a5a5a;
+    border-radius: 0;
+}
+
+input[placeholder] {
+    font-family: 'Source Sans Pro', sans-serif, system-ui;
+}
+
+label {
+    font-family: 'Source Sans Pro', sans-serif, system-ui;
+    font-size: 20px;
+}
+
+.img-col {
+    width: 120px;
+    height: 120px;
+}
+
+footer {
+    font-weight: 500;
+}
